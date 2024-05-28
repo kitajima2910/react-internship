@@ -2,6 +2,11 @@
 
 #### API: https://reqres.in/
 
+#### Libs: 
+* axios: https://github.com/axios/axios
+* react-paginate: https://www.npmjs.com/package/react-paginate
+<br>
+
 ##### Error message "error:0308010C:digital envelope routines::unsupported" 
 ###### issue:
 * npm update
