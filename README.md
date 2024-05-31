@@ -6,6 +6,7 @@
 * axios: https://github.com/axios/axios
 * react-paginate: https://www.npmjs.com/package/react-paginate
 * react-toastify: https://www.npmjs.com/package/react-toastify
+* lodash: https://lodash.com/
 <br />
 
 ##### Error message "error:0308010C:digital envelope routines::unsupported" 
